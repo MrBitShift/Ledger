@@ -1,0 +1,4 @@
+﻿  Ledger.c
+c:\programming projects\ledger\ledger\ledger.c(84): warning C4047: 'function': 'const time_t *const ' differs in levels of indirection from 'time_t'
+c:\programming projects\ledger\ledger\ledger.c(84): warning C4024: 'ctime': different types for formal and actual parameter 1
+  Ledger.vcxproj -> C:\Programming Projects\Ledger\Debug\Ledger.exe
